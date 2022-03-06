@@ -1,6 +1,12 @@
 {
-	"p3dtext_language_title": "Langue",
-	"p3dtext_language_desc": "Sélectionner la langue du mod (Nécessite un redémarrage pour prendre effet)",
-	"p3d_menu_title": "P3DHack Config",
-	"p3d_menu_desc": "Here you can customize the configuration file"
+    "p3dtext_language_title": "Langue",
+    "p3dtext_language_desc": "Sélectionner la langue du mod (Nécessite un redémarrage pour prendre effet)",
+    "p3d_menu_title": "P3DHack Config",
+    "p3d_menu_desc": "Here you can customize the configuration file",
+    "p3d_player_menu_damage_title": "Damage modifiers",
+    "p3d_player_menu_drill_upgrades_title": "Drill upgrades",
+    "p3d_player_menu_player_upgrades_title": "Player upgrades",
+    "p3d_player_menu_carry_title": "Bag modifiers",
+    "p3d_player_menu_intimidation_title": "Intimidation modifiers",
+    "p3d_toggle_no_shout_delay_description": "Removes the cooldown after shouting."
 }
