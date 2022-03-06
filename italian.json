@@ -961,5 +961,7 @@
     "p3d_toggle_zipline_transport_description": "Ti permette di trasportare borse su tutte le teleferiche",
     "p3d_toggle_no_shout_delay": "Nessun ritardo urla/interagisci",
     "p3d_toggle_instant_domination": "Dominazione istantanea",
-    "p3d_toggle_infinite_minions": "Conversioni infinite"
+    "p3d_toggle_infinite_minions": "Conversioni infinite",
+    "p3d_player_menu_interaction_title": "Interaction modifiers",
+    "p3d_player_menu_deployables_title": "Deployable modifiers"
 }

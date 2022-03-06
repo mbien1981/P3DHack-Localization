@@ -869,5 +869,7 @@
     "p3d_toggle_zipline_transport": "Zipline Transport",
     "p3d_toggle_zipline_transport_description": "Gør det muligt og kunne transpotere alle tasker på Zipline ",
     "p3d_toggle_instant_domination": "Øjeblikkelig Dominere",
-    "p3d_toggle_infinite_minions": "Uenlig Konverterer"
+    "p3d_toggle_infinite_minions": "Uenlig Konverterer",
+    "p3d_player_menu_interaction_title": "Interaction modifiers",
+    "p3d_player_menu_deployables_title": "Deployable modifiers"
 }

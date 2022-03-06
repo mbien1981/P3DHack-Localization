@@ -961,5 +961,7 @@
     "p3d_toggle_zipline_transport_description": "Ermöglicht den Transport von Taschen auf allen Seilrutschen",
     "p3d_toggle_no_shout_delay": "No shout delay",
     "p3d_toggle_instant_domination": "Sofortige Beherrschung",
-    "p3d_toggle_infinite_minions": "Unbegrenzte Konvertierungen"
+    "p3d_toggle_infinite_minions": "Unbegrenzte Konvertierungen",
+    "p3d_player_menu_interaction_title": "Interaction modifiers",
+    "p3d_player_menu_deployables_title": "Deployable modifiers"
 }

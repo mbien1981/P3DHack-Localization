@@ -986,5 +986,7 @@
     "p3d_toggle_zipline_transport_description": "Allows You To Transport Bags On All Ziplines",
     "p3d_toggle_no_shout_delay": "No shout delay",
     "p3d_toggle_instant_domination": "Instant Dominate",
-    "p3d_toggle_infinite_minions": "Infinite Converts"
+    "p3d_toggle_infinite_minions": "Infinite Converts",
+    "p3d_player_menu_interaction_title": "Interaction modifiers",
+    "p3d_player_menu_deployables_title": "Deployable modifiers"
 }

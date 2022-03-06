@@ -854,5 +854,7 @@
     "p3d_toggle_zipline_transport": "Transporte por Tirolina",
     "p3d_toggle_zipline_transport_description": "Te permite transportar las Bolsas en Todas las Tirolinas",
     "p3d_toggle_instant_domination": "Control Instantáneo",
-    "p3d_toggle_infinite_minions": "Conversiones Ilimitadas"
+    "p3d_toggle_infinite_minions": "Conversiones Ilimitadas",
+    "p3d_player_menu_interaction_title": "Interaction modifiers",
+    "p3d_player_menu_deployables_title": "Deployable modifiers"
 }

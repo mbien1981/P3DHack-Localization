@@ -8,5 +8,7 @@
     "p3d_player_menu_player_upgrades_title": "Player upgrades",
     "p3d_player_menu_carry_title": "Bag modifiers",
     "p3d_player_menu_intimidation_title": "Intimidation modifiers",
-    "p3d_toggle_no_shout_delay_description": "Removes the cooldown after shouting."
+    "p3d_toggle_no_shout_delay_description": "Removes the cooldown after shouting.",
+    "p3d_player_menu_interaction_title": "Interaction modifiers",
+    "p3d_player_menu_deployables_title": "Deployable modifiers"
 }

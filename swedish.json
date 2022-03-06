@@ -888,5 +888,7 @@
     "p3d_toggle_zipline_transport": "Zipline Transport",
     "p3d_toggle_zipline_transport_description": "Låter dig transportera väskor på alla draglinor",
     "p3d_toggle_instant_domination": "Direkt dominera",
-    "p3d_toggle_infinite_minions": "Oändliga konverterar"
+    "p3d_toggle_infinite_minions": "Oändliga konverterar",
+    "p3d_player_menu_interaction_title": "Interaction modifiers",
+    "p3d_player_menu_deployables_title": "Deployable modifiers"
 }

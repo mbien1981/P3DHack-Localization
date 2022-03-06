@@ -943,5 +943,7 @@
     "p3d_toggle_zipline_transport": "Канатная дорога",
     "p3d_toggle_zipline_transport_description": "Позволяет транспортировать сумки на всех канатных дорогах",
     "p3d_toggle_instant_domination": "Мгновенное доминирование",
-    "p3d_toggle_infinite_minions": "Бесконечная конвертация врагов"
+    "p3d_toggle_infinite_minions": "Бесконечная конвертация врагов",
+    "p3d_player_menu_interaction_title": "Interaction modifiers",
+    "p3d_player_menu_deployables_title": "Deployable modifiers"
 }

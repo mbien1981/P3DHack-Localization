@@ -860,5 +860,7 @@
     "p3d_toggle_zipline_transport": "運人繩索解鎖",
     "p3d_toggle_zipline_transport_description": "允許你在運輸人用的繩索運輸包裹",
     "p3d_toggle_instant_domination": "秒速轉換敵人",
-    "p3d_toggle_infinite_minions": "無限轉換敵人"
+    "p3d_toggle_infinite_minions": "無限轉換敵人",
+    "p3d_player_menu_interaction_title": "Interaction modifiers",
+    "p3d_player_menu_deployables_title": "Deployable modifiers"
 }
