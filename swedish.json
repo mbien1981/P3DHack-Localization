@@ -509,7 +509,6 @@
     "mouse_teleport": "Teleporterad",
     "num_kill": "Alla döda",
     "num_pg_answer": "Personsökare svarade",
-    "InfiniteSpecial_": "Oändlig special",
     "infsentry": "Sentry Gun Infinite Ammo",
     "godsentry": "Sentry Gun God Mode",
     "BulletExplode": "Bullet Explode",
@@ -890,5 +889,6 @@
     "p3d_toggle_instant_domination": "Direkt dominera",
     "p3d_toggle_infinite_minions": "Oändliga konverterar",
     "p3d_player_menu_interaction_title": "Interaction modifiers",
-    "p3d_player_menu_deployables_title": "Deployable modifiers"
+    "p3d_player_menu_deployables_title": "Deployable modifiers",
+    "p3d_toggle_unlimited_equipment": "Oändlig special"
 }

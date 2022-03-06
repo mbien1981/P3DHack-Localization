@@ -580,7 +580,6 @@
     "mouse_teleport": "Teleportiert",
     "num_kill": "Alle tot",
     "num_pg_answer": "PAGER BEANTWORTET",
-    "InfiniteSpecial_": "Unendliche Specials",
     "infsentry": "Sentry Gun unendliche Munition",
     "godsentry": "Sentry Gun Godmode",
     "BulletExplode": "Kugeln explodieren",
@@ -963,5 +962,6 @@
     "p3d_toggle_instant_domination": "Sofortige Beherrschung",
     "p3d_toggle_infinite_minions": "Unbegrenzte Konvertierungen",
     "p3d_player_menu_interaction_title": "Interaction modifiers",
-    "p3d_player_menu_deployables_title": "Deployable modifiers"
+    "p3d_player_menu_deployables_title": "Deployable modifiers",
+    "p3d_toggle_unlimited_equipment": "Unendliche Specials"
 }

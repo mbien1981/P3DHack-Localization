@@ -580,7 +580,6 @@
     "mouse_teleport": "Teleportato",
     "num_kill": "Tutti morti",
     "num_pg_answer": "CERCAPERSONE RISPOSTI",
-    "InfiniteSpecial_": "Oggetti speciali infiniti",
     "infsentry": "Munizioni infinite per le torrette",
     "godsentry": "God Mode per le torrette",
     "BulletExplode": "Proiettili esplosivi",
@@ -963,5 +962,6 @@
     "p3d_toggle_instant_domination": "Dominazione istantanea",
     "p3d_toggle_infinite_minions": "Conversioni infinite",
     "p3d_player_menu_interaction_title": "Interaction modifiers",
-    "p3d_player_menu_deployables_title": "Deployable modifiers"
+    "p3d_player_menu_deployables_title": "Deployable modifiers",
+    "p3d_toggle_unlimited_equipment": "Oggetti speciali infiniti"
 }

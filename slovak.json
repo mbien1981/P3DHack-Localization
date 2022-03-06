@@ -492,7 +492,6 @@
     "mouse_teleport": "Teleportovaný",
     "num_kill": "Vsetci mrtvi",
     "num_pg_answer": "Odpovedat na vysielacku",
-    "InfiniteSpecial_": "Nekonecné speciály",
     "infsentry": "Sentry Gun Nekonecné náboje",
     "godsentry": "Nesmrtelnost Sentry Gun-y",
     "BulletExplode": "Výbuch nábojov",
@@ -873,5 +872,6 @@
     "p3d_toggle_instant_domination": "Okamzitá dominancia",
     "p3d_toggle_infinite_minions": "Nekonecné konvertovanie",
     "p3d_player_menu_interaction_title": "Interaction modifiers",
-    "p3d_player_menu_deployables_title": "Deployable modifiers"
+    "p3d_player_menu_deployables_title": "Deployable modifiers",
+    "p3d_toggle_unlimited_equipment": "Nekonecné speciály"
 }

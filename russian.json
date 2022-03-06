@@ -564,7 +564,6 @@
     "mouse_teleport": "Телепорт",
     "num_kill": "Все мертвы",
     "num_pg_answer": "На все пейджеры был получен ответ",
-    "InfiniteSpecial_": "Бесконечные вещи",
     "infsentry": "Турель - бесконечные патроны",
     "godsentry": "Турель - бессмертие",
     "BulletExplode": "Взрывные пули",
@@ -945,5 +944,6 @@
     "p3d_toggle_instant_domination": "Мгновенное доминирование",
     "p3d_toggle_infinite_minions": "Бесконечная конвертация врагов",
     "p3d_player_menu_interaction_title": "Interaction modifiers",
-    "p3d_player_menu_deployables_title": "Deployable modifiers"
+    "p3d_player_menu_deployables_title": "Deployable modifiers",
+    "p3d_toggle_unlimited_equipment": "Бесконечные вещи"
 }

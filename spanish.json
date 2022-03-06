@@ -475,7 +475,6 @@
     "mouse_teleport": "Teletransportado",
     "num_kill": "Todos Muertos",
     "num_pg_answer": "LOCALIZADORES RESPONDIDOS",
-    "InfiniteSpecial_": "Especiales Infinitos",
     "infsentry": "Munición Infinita en Torreta Portátil",
     "godsentry": "Modo Dios en Torreta Portátil",
     "BulletExplode": "Balas Explotan",
@@ -856,5 +855,6 @@
     "p3d_toggle_instant_domination": "Control Instantáneo",
     "p3d_toggle_infinite_minions": "Conversiones Ilimitadas",
     "p3d_player_menu_interaction_title": "Interaction modifiers",
-    "p3d_player_menu_deployables_title": "Deployable modifiers"
+    "p3d_player_menu_deployables_title": "Deployable modifiers",
+    "p3d_toggle_unlimited_equipment": "Especiales Infinitos"
 }

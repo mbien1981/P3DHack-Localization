@@ -480,7 +480,6 @@
     "mouse_teleport": "傳送完畢!",
     "num_kill": "所有非友軍AI已死亡(包括友軍警察)",
     "num_pg_answer": "已回答對講機並包裹屍體",
-    "InfiniteSpecial_": "無限使用小道具",
     "infsentry": "崗哨機槍無限子彈",
     "godsentry": "崗哨機槍無敵",
     "BulletExplode": "爆炸子彈",
@@ -862,5 +861,6 @@
     "p3d_toggle_instant_domination": "秒速轉換敵人",
     "p3d_toggle_infinite_minions": "無限轉換敵人",
     "p3d_player_menu_interaction_title": "Interaction modifiers",
-    "p3d_player_menu_deployables_title": "Deployable modifiers"
+    "p3d_player_menu_deployables_title": "Deployable modifiers",
+    "p3d_toggle_unlimited_equipment": "無限使用小道具"
 }
