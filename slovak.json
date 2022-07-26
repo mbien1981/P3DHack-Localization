@@ -894,5 +894,6 @@
     "p3d_set_infamy_level_slider_prefix": "Infamy",
     "p3d_full_clear_progress": "Full clear progress",
     "p3d_toggle_shoot_through_shields": "Shoot through shields",
-    "p3d_toggle_instant_reload": "Instant reload"
+    "p3d_toggle_instant_reload": "Instant reload",
+    "p3d_increase_pagers_slider_suffix": "Total pagers"
 }

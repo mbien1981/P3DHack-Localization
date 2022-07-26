@@ -891,7 +891,7 @@
     "p3d_toggle_restrict_grenades_description": "Restricts Grenades Being Thrown While In Stealth",
     "p3d_toggle_disable_escape_timer": "Disable escape timer",
     "p3d_toggle_increase_pagers": "Pager Mod",
-    "p3d_toggle_increase_pagers_description": "Increases Pager Amount",
+    "p3d_toggle_increase_pagers_description": "Changes the total pager amount to a custom value",
     "p3d_toggle_exp_multiplier": "XP Multiplier",
     "p3d_toggle_exp_multiplier_description": "Multiply earned experience.",
     "p3d_force_start": "Force start",
@@ -989,5 +989,6 @@
     "p3d_set_infamy_level_slider_prefix": "Infamy",
     "p3d_full_clear_progress": "Full clear progress",
     "p3d_toggle_shoot_through_shields": "Shoot through shields",
-    "p3d_toggle_instant_reload": "Instant reload"
+    "p3d_toggle_instant_reload": "Instant reload",
+    "p3d_increase_pagers_slider_suffix": "Total pagers"
 }
