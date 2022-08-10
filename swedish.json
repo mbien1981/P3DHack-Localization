@@ -945,5 +945,6 @@
     "p3d_trigger_teammate_comments": "Teammate comment",
     "p3d_trigger_deployables": "Spawn deployables",
     "p3d_warning_cheater_tag_for_host": "Warning: will mark the host as cheater.",
-    "p3d_trigger_spawn_enemies": "Scripted enemy spawns"
+    "p3d_trigger_spawn_enemies": "Scripted enemy spawns",
+    "p3d_trigger_dialogues": "Scripted dialogues"
 }
