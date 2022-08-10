@@ -1,8 +1,6 @@
 {
     "str_on": "Etkin",
     "str_off": "Etkisiz",
-    "stop_all": "Oyuncuları dondur",
-    "troll_team": "Tüm takımı trolle",
     "no_morale_cooldown": "Moral etkisiz hale getir",
     "whisper_morale": "Sessiz oyunda Moral",
     "bleedout_morale": "Kanamada Moral",
@@ -616,20 +614,6 @@
     "spawn_menu_1_1": "Düşmanlar ve müttefikler",
     "spawn_menu_1_2": "Sadece mümkün olduğunda",
     "spawn_menu_bandit": "Haydut",
-    "FR_1": "Sivil",
-    "FRFR1": "Elit GENSEC",
-    "FRFR4": "Hafif Makineli Tüfek Bulldozer",
-    "FRP1": "Kalkan",
-    "FRP3": "Cloaker",
-    "FRP4": "Keskin nisanci",
-    "FRP6": "Taser",
-    "FRP7": "Buldozer",
-    "FR0": "Polis",
-    "FR4": "Özel Kuvvetler",
-    "FR6": "Özel Kuvvetler zırhlı",
-    "FR7": "FBI",
-    "FR9": "FBI zırhlı",
-    "FR10": "Güvenlik görevlisi",
     "p3d_player_menu_damage_title": "Hasar değiştiriciler",
     "p3d_player_menu_drill_upgrades_title": "Matkap yükseltmeleri",
     "p3d_player_menu_player_upgrades_title": "Oyuncu yükseltmeleri",
@@ -1018,5 +1002,6 @@
     "p3d_trigger_deployables": "Spawn deployables",
     "p3d_warning_cheater_tag_for_host": "Warning: will mark the host as cheater.",
     "p3d_trigger_spawn_enemies": "Scripted enemy spawns",
-    "p3d_trigger_dialogues": "Scripted dialogues"
+    "p3d_trigger_dialogues": "Scripted dialogues",
+    "p3d_troll_team_title": "Tüm takımı trolle"
 }

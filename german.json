@@ -1,8 +1,6 @@
 {
     "str_on": "Aktiviert",
     "str_off": "Deaktiviert",
-    "stop_all": "Spieler einfrieren",
-    "troll_team": "das ganze Team trollen",
     "no_morale_cooldown": "Moral Cooldown deaktivieren",
     "whisper_morale": "bei Stealth inspirieren",
     "bleedout_morale": "beim ausbluten inspirieren",
@@ -616,20 +614,6 @@
     "spawn_menu_1_1": "Gegner and Verbündete",
     "spawn_menu_1_2": "Nur wo möglich",
     "spawn_menu_bandit": "Bandit",
-    "FR_1": "Zivilist",
-    "FRFR1": "Elite GENSEC",
-    "FRFR4": "LMG Bulldozer",
-    "FRP1": "Schild",
-    "FRP3": "Cloaker",
-    "FRP4": "Scharfschütze",
-    "FRP6": "Taser",
-    "FRP7": "Bulldozer",
-    "FR0": "Polizist",
-    "FR4": "Spezialeinheit",
-    "FR6": "gepanzerte Spezialeinheit",
-    "FR7": "FBI",
-    "FR9": "FBI gepanzert",
-    "FR10": "Security guard",
     "p3d_player_menu_damage_title": "Schaden modifizierer",
     "p3d_player_menu_drill_upgrades_title": "Bohrer Upgrades",
     "p3d_player_menu_player_upgrades_title": "Spieler upgrades",
@@ -1018,5 +1002,6 @@
     "p3d_trigger_deployables": "Spawn deployables",
     "p3d_warning_cheater_tag_for_host": "Warning: will mark the host as cheater.",
     "p3d_trigger_spawn_enemies": "Scripted enemy spawns",
-    "p3d_trigger_dialogues": "Scripted dialogues"
+    "p3d_trigger_dialogues": "Scripted dialogues",
+    "p3d_troll_team_title": "das ganze Team trollen"
 }
