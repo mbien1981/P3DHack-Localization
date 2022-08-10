@@ -1003,5 +1003,6 @@
     "p3d_warning_cheater_tag_for_host": "Warning: will mark the host as cheater.",
     "p3d_trigger_spawn_enemies": "Scripted enemy spawns",
     "p3d_trigger_dialogues": "Scripted dialogues",
-    "p3d_troll_team_title": "Tüm takımı trolle"
+    "p3d_troll_team_title": "Tüm takımı trolle",
+    "p3d_aim_title": "Aimbot settings"
 }
