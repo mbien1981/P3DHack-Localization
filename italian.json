@@ -585,8 +585,6 @@
     "main_menu_f8_text8": "Trolla te stesso",
     "main_menu_f8_text12": "OPZIONI PRIGIONE/TELETRASPORTO",
     "p3d_send_peer_to_custody": "manda in prigione",
-    "main_menu_f8_text14": "Porta del caveau aperta",
-    "main_menu_f8_text15": "Cassette di deposito riempite",
     "p3d_change_statistics": "Cambia statistiche",
     "p3d_pregame_menu_title": "Pre-Game Menu",
     "p3d_inventory_menu_title": "Menu inventario",
@@ -990,5 +988,7 @@
     "p3d_use_arrow_keys_to_move": "Use your arrow keys to move the helicopter.",
     "p3d_ascend_helicopter": "Press %s to ascend",
     "p3d_descend_helicopter": "Press %s to descend",
-    "p3d_trigger_unstable_elements": "Unstable elements"
+    "p3d_trigger_unstable_elements": "Unstable elements",
+    "p3d_open_vault_on_callback": "Porta del caveau aperta",
+    "p3d_fill_deposit_boxes_on_callback": "Cassette di deposito riempite"
 }

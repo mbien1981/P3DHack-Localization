@@ -512,8 +512,6 @@
     "main_menu_f8_text12": "監獄/傳送設置",
     "p3d_send_peer_to_custody": "抓進監獄",
     "overdrill_only": "該關卡無法使用!",
-    "main_menu_f8_text14": "所有的門均已開啟",
-    "main_menu_f8_text15": "儲蓄箱已填充",
     "p3d_change_statistics": "修改個人統計信息",
     "p3d_pregame_menu_title": "快速遊玩的菜單",
     "p3d_inventory_menu_title": "庫存菜單",
@@ -912,5 +910,7 @@
     "p3d_use_arrow_keys_to_move": "Use your arrow keys to move the helicopter.",
     "p3d_ascend_helicopter": "Press %s to ascend",
     "p3d_descend_helicopter": "Press %s to descend",
-    "p3d_trigger_unstable_elements": "Unstable elements"
+    "p3d_trigger_unstable_elements": "Unstable elements",
+    "p3d_open_vault_on_callback": "所有的門均已開啟",
+    "p3d_fill_deposit_boxes_on_callback": "儲蓄箱已填充"
 }

@@ -521,8 +521,6 @@
     "main_menu_f8_text8": "Dril dig selv",
     "main_menu_f8_text12": "Fængsel/TELEPORT MULIGHEDER",
     "p3d_send_peer_to_custody": "Kast i Fængsel",
-    "main_menu_f8_text14": "Bankdør Åbnet",
-    "main_menu_f8_text15": "Person bokse Fylt",
     "p3d_change_statistics": "Skift statistik",
     "p3d_pregame_menu_title": "Før-Spil's Menu",
     "p3d_inventory_menu_title": "Inventar Menu",
@@ -921,5 +919,7 @@
     "p3d_use_arrow_keys_to_move": "Use your arrow keys to move the helicopter.",
     "p3d_ascend_helicopter": "Press %s to ascend",
     "p3d_descend_helicopter": "Press %s to descend",
-    "p3d_trigger_unstable_elements": "Unstable elements"
+    "p3d_trigger_unstable_elements": "Unstable elements",
+    "p3d_open_vault_on_callback": "Bankdør Åbnet",
+    "p3d_fill_deposit_boxes_on_callback": "Person bokse Fylt"
 }
