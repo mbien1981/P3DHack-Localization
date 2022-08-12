@@ -123,8 +123,6 @@
     "antistopthecheater_all": "Anti Stop Cheaters",
     "NoClip_Amount": "Vitesse de NoClip",
     "hide_buy_dlc": "Cacher Acheter DLC",
-    "arrows_helicopter": "Flèches sur le clavier",
-    "control_helicopter": "Contrôlez l'hélicoptère",
     "All_type": "All",
     "Host_type": "Host",
     "Client_type": "Client",
@@ -1004,5 +1002,11 @@
     "p3d_trigger_spawn_enemies": "Scripted enemy spawns",
     "p3d_trigger_dialogues": "Scripted dialogues",
     "p3d_troll_team_title": "Troller l'ensemble de l'équipe",
-    "p3d_aim_title": "Aimbot settings"
+    "p3d_aim_title": "Aimbot settings",
+    "p3d_helicopter_movement": "Helicopter movement controls",
+    "p3d_helicopter_altitude": "Helicopter altitude controls",
+    "p3d_use_arrow_keys_to_move": "Use your arrow keys to move the helicopter.",
+    "p3d_ascend_helicopter": "Press %s to ascend",
+    "p3d_descend_helicopter": "Press %s to descend",
+    "p3d_trigger_unstable_elements": "Unstable elements"
 }

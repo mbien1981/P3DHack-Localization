@@ -54,8 +54,6 @@
     "antistopthecheater_all": "解凍玩家",
     "NoClip_Amount": "穿牆速度",
     "hide_buy_dlc": "隱藏購買DLC的廣告",
-    "arrows_helicopter": "方向鍵 上",
-    "control_helicopter": "控制直升機",
     "All_type": "All",
     "Host_type": "Host",
     "Client_type": "Client",
@@ -908,5 +906,11 @@
     "p3d_warning_cheater_tag_for_host": "Warning: will mark the host as cheater.",
     "p3d_trigger_spawn_enemies": "Scripted enemy spawns",
     "p3d_trigger_dialogues": "Scripted dialogues",
-    "p3d_aim_title": "Aimbot settings"
+    "p3d_aim_title": "Aimbot settings",
+    "p3d_helicopter_movement": "Helicopter movement controls",
+    "p3d_helicopter_altitude": "Helicopter altitude controls",
+    "p3d_use_arrow_keys_to_move": "Use your arrow keys to move the helicopter.",
+    "p3d_ascend_helicopter": "Press %s to ascend",
+    "p3d_descend_helicopter": "Press %s to descend",
+    "p3d_trigger_unstable_elements": "Unstable elements"
 }
