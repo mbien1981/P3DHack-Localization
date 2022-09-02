@@ -652,7 +652,7 @@
     "p3d_force_start": "Vynútený start",
     "p3d_force_start_description": "Force Start The Game, Zabránte cakaniu",
     "p3d_force_ready_status": "Sila pripravená",
-    "p3d_toggle_force_unready_status": "Sila nepripravená",
+    "p3d_force_unready_status": "Sila nepripravená",
     "p3d_unlock_all_assets": "Odomknite vsetky Assety",
     "p3d_unlock_preplanning": "Odomknite vsetky prvky predbezného plánovania",
     "p3d_toggle_spooc_cuff_ai": "Cloaker Only Cuffs AI",

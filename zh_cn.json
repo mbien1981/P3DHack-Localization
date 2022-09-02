@@ -642,7 +642,7 @@
     "p3d_force_start": "强制开始游戏",
     "p3d_force_start_description": "强制开始游戏",
     "p3d_force_ready_status": "强制准备",
-    "p3d_toggle_force_unready_status": "强制取消准备",
+    "p3d_force_unready_status": "强制取消准备",
     "p3d_unlock_all_assets": "解锁全部有利物品",
     "p3d_unlock_preplanning": "购买全部事前准备道具",
     "p3d_toggle_spooc_cuff_ai": "剑圣只会铐住AI",

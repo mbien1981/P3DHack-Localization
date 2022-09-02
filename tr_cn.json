@@ -642,7 +642,7 @@
     "p3d_force_start": "強制開始遊戲",
     "p3d_force_start_description": "強制開始遊戲",
     "p3d_force_ready_status": "強制準備",
-    "p3d_toggle_force_unready_status": "強制取消準備",
+    "p3d_force_unready_status": "強制取消準備",
     "p3d_unlock_all_assets": "解鎖全部有利物品",
     "p3d_unlock_preplanning": "購買全部事前準備道具",
     "p3d_toggle_spooc_cuff_ai": "劍聖只會銬住AI",

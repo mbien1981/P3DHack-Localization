@@ -645,7 +645,7 @@
     "p3d_force_start": "Forzar inicio de la Misión",
     "p3d_force_start_description": "Forzar inicio de la Misión y evitar esperas",
     "p3d_force_ready_status": "Forzar Listo",
-    "p3d_toggle_force_unready_status": "Forzar no Listo",
+    "p3d_force_unready_status": "Forzar no Listo",
     "p3d_unlock_all_assets": "Desbloquear todos los Recursos",
     "p3d_unlock_preplanning": "Desbloquear todos los elementos del pre-plan",
     "p3d_toggle_spooc_cuff_ai": "El Cloaker únicamente esposa a los BOTS",

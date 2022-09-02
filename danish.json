@@ -650,7 +650,7 @@
     "p3d_force_start": "Tving Start",
     "p3d_force_start_description": "Tving Start spillet, forhindrer ventetid",
     "p3d_force_ready_status": "Tving Klar",
-    "p3d_toggle_force_unready_status": "Tving Ikke Klar",
+    "p3d_force_unready_status": "Tving Ikke Klar",
     "p3d_unlock_all_assets": "Op Lås Alle Assets",
     "p3d_unlock_preplanning": "Lås op for Alle For-Planing Elementer",
     "p3d_toggle_spooc_cuff_ai": "Cloaker Kun Manchetter AI",

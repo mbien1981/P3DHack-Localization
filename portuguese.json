@@ -650,7 +650,7 @@
     "p3d_force_start": "Forcar Início",
     "p3d_force_start_description": "Forçar o Início do Jogo, Evite Esperar",
     "p3d_force_ready_status": "Forçar Pronto",
-    "p3d_toggle_force_unready_status": "Forçar Não-Pronto",
+    "p3d_force_unready_status": "Forçar Não-Pronto",
     "p3d_unlock_all_assets": "Desbloquear Todos os Assets",
     "p3d_unlock_preplanning": "Desbloquear Todos os Elementos de Pré-Planejamento",
     "p3d_toggle_spooc_cuff_ai": "Cloaker Derruba somente IA",

@@ -665,7 +665,7 @@
     "p3d_force_start": "Tvinga Start",
     "p3d_force_start_description": "Tvinga igång spelet, förhindra att vänta",
     "p3d_force_ready_status": "Force Ready",
-    "p3d_toggle_force_unready_status": "Force Unready",
+    "p3d_force_unready_status": "Force Unready",
     "p3d_unlock_all_assets": "Lås upp Alla tillgångar",
     "p3d_unlock_preplanning": "Unlock All Pre-Planning Elements",
     "p3d_toggle_spooc_cuff_ai": "Cloaker arresterar endast AI",
