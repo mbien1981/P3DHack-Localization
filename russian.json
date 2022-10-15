@@ -1,6 +1,7 @@
 {
+    "setup_default_p3d_bind": "Установить сочетания клавиш по умолчанию",
     "Enter_NameSpooer": "Измените свое имя",
-    "Enter_NameSpooer_desc": "Напишите желаемое имя, которое вы хотите иметь в игре", 
+    "Enter_NameSpooer_desc": "Напишите желаемое имя, которое вы хотите иметь в игре",
     "str_on": "Включено",
     "str_off": "Выключено",
     "no_morale_cooldown": "Disable Inspire Cooldown",
