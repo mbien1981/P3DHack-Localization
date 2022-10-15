@@ -1,7 +1,7 @@
 {
     "setup_default_p3d_bind": "设置默认键",
     "Enter_NameSpooer": "修改你的名字",
-    "Enter_NameSpooer_desc": "写下你想在游戏中使用的名字",  
+    "Enter_NameSpooer_desc": "写下你想在游戏中使用的名字",
     "str_on": "已开启",
     "str_off": "已关闭",
     "no_morale_cooldown": "禁用激励冷却",
@@ -570,7 +570,6 @@
     "p3d_set_team_in_custody": "抓捕所有玩家",
     "main_menu_f8_text8": "你自己",
     "main_menu_f8_text12": "监狱/传送设置",
-    "p3d_send_peer_to_custody": "抓进监狱",
     "overdrill_only": "该关卡无法使用!",
     "p3d_change_statistics": "修改个人统计信息",
     "p3d_pregame_menu_title": "快速游玩的菜单",
@@ -857,7 +856,7 @@
     "p3d_teleport_all_peers": "把所有人传送到我的位置",
     "p3d_kick_everyone": "踢掉所有人",
     "p3d_freeze_all_peers_title": "冻结玩家",
-	"p3d_unfreeze_all_peers_title": "解冻玩家",
+    "p3d_unfreeze_all_peers_title": "解冻玩家",
     "p3d_set_local_peer_state_title": "对自己的选项",
     "state_bleed_out": "出血",
     "state_arrested": "扇自己巴掌",
@@ -977,5 +976,5 @@
     "p3d_descend_helicopter": "按 %s 下降",
     "p3d_trigger_unstable_elements": "不稳定选项",
     "p3d_open_vault_on_callback": "所有的门均已开启",
-    "p3d_fill_deposit_boxes_on_callback": "储蓄箱已填充",
+    "p3d_fill_deposit_boxes_on_callback": "储蓄箱已填充"
 }
