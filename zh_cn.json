@@ -643,6 +643,7 @@
     "p3d_toggle_random_pager_chance": "最多应答4个对讲机",
     "p3d_toggle_disable_pagers_on_melee_kill": "偷取对讲机",
     "p3d_toggle_unlimited_bodybags": "无限尸体袋",
+    "p3d_toggle_unlimited_cable_ties": "无限绑人绳",
     "p3d_toggle_unlimited_cable_ties_title": "无限绑人绳",
     "p3d_stealth_menu_convert_all_enemies_title": "转换全部敌人为友军",
     "p3d_stealth_menu_convert_all_enemies_on_callack": "全部敌人已转换为友军!",
@@ -810,9 +811,9 @@
     "p3d_fill_deposit_boxes": "填充储蓄箱",
     "p3d_fill_deposit_boxes_description": "在一些关卡里可能不会工作!",
     "p3d_heist_events": "抢劫特定选项",
-    "p3d_trigger_overdrill": "开启金库门",
+    "p3d_trigger_overdrill": "开启隐藏金库",
     "p3d_trigger_overdrill_description": "开启金库门",
-    "p3d_open_overvault": "打开金库门",
+    "p3d_open_overvault": "打开隐藏金库",
     "p3d_trigger_burnning_painting": "使画像发光",
     "p3d_trigger_secret_door": "开启解密大门",
     "p3d_peer_not_available": "玩家不存在",
@@ -945,5 +946,6 @@
     "p3d_descend_helicopter": "按 %s 下降",
     "p3d_trigger_unstable_elements": "不稳定选项",
     "p3d_open_vault_on_callback": "所有的门均已开启",
-    "p3d_fill_deposit_boxes_on_callback": "储蓄箱已填充"
+    "p3d_fill_deposit_boxes_on_callback": "储蓄箱已填充",
+    "the_end_door": "打开办公室门"
 }
