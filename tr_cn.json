@@ -777,7 +777,7 @@
     "p3d_increase_pagers_slider_suffix": "對講機總數",
     "p3d_troll_local_peer": "惡搞自己",
     "p3d_troll_peer": "惡搞 %s",
-    "kick_everyone_description": "它按照它所說的做，你不能抱怨它.",
+    "p3d_kick_everyone_description": "它按照它所說的做，你不能抱怨它.",
     "p3d_teleport_peer_to_local": "傳送到你的位置",
     "p3d_freeze_peer_title": "凍結 %s",
     "p3d_freeze_peer": "凍結",

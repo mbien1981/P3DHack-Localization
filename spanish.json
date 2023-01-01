@@ -738,7 +738,7 @@
     "p3d_increase_pagers_slider_suffix": "Búscas totales",
     "p3d_troll_local_peer": "Trolearte a ti mismo",
     "p3d_troll_peer": "Trolear a %s",
-    "kick_everyone_description": "Hace lo que promete, no puedes quejarte.",
+    "p3d_kick_everyone_description": "Hace lo que promete, no puedes quejarte.",
     "p3d_teleport_peer_to_local": "Teletransportar a tu ubicación",
     "p3d_freeze_peer_title": "Congelar a %s",
     "p3d_freeze_peer": "Congelar",

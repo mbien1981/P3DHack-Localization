@@ -771,7 +771,7 @@
     "p3d_increase_pagers_slider_suffix": "Total pagers",
     "p3d_troll_local_peer": "Troll yourself",
     "p3d_troll_peer": "Troll %s",
-    "kick_everyone_description": "It does what it states, you can't complain about it.",
+    "p3d_kick_everyone_description": "It does what it states, you can't complain about it.",
     "p3d_teleport_peer_to_local": "Teleport to your position",
     "p3d_freeze_peer_title": "Freeze %s",
     "p3d_freeze_peer": "Freeze",

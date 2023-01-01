@@ -777,7 +777,7 @@
     "p3d_increase_pagers_slider_suffix": "Общее количество пейджеров",
     "p3d_troll_local_peer": "Издеваться над собой",
     "p3d_troll_peer": "Издеваться над %s",
-    "kick_everyone_description": "Он делает то, что заявлено, вы не можете жаловаться на него.",
+    "p3d_kick_everyone_description": "Он делает то, что заявлено, вы не можете жаловаться на него.",
     "p3d_teleport_peer_to_local": "Телепортировать к себе",
     "p3d_freeze_peer_title": "Заморозить %s",
     "p3d_freeze_peer": "Заморозить",

@@ -774,7 +774,7 @@
     "p3d_increase_pagers_slider_suffix": "Toplam çağrı cihazı",
     "p3d_troll_local_peer": "Kendini trolle",
     "p3d_troll_peer": "Troll %s",
-    "kick_everyone_description": "Söylediği şeyi yapar, bundan şikayet edemezsin..",
+    "p3d_kick_everyone_description": "Söylediği şeyi yapar, bundan şikayet edemezsin..",
     "p3d_teleport_peer_to_local": "Konumunuza ışınlanın",
     "p3d_freeze_peer_title": "%s dondur",
     "p3d_freeze_peer": "Dondur",
