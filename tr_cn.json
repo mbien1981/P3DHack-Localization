@@ -789,7 +789,6 @@
     "p3d_toggle_silent_aim": "啟動靜默自瞄",
     "p3d_toggle_aim_through_shields": "穿透盾牌",
     "p3d_toggle_aim_through_walls": "穿透牆體",
-    "p3d_experimental_setting_warning": "警告：實驗性功能，除了它的行為不符合預期.",
     "p3d_silent_aim_settings": "靜默瞄準設置",
     "p3d_aimbot_target_priority_menu_title": "自瞄優先級設置",
     "p3d_aimbot_target_priority_type": "按以下方式排列目標的優先級:",
@@ -877,7 +876,7 @@
     "p3d_run_sequence_open_vault": "開啟保險庫",
     "p3d_run_sequence_close_vault": "關閉保險庫",
     "p3d_run_sequence_upgrade_cameras": "攝像頭升級",
-	"p3d_unsynced_sequence_warning": "只對自己有效,只有自己看到",
+    "p3d_unsynced_sequence_warning": "只對自己有效,只有自己看到",
     "p3d_generic_element_menu_title": "啟用觸發器",
     "p3d_trigger_enable_units": "啟用部件",
     "p3d_trigger_hide_units": "停用部件",
@@ -945,5 +944,9 @@
     "p3d_descend_helicopter": "按 %s 下降",
     "p3d_trigger_unstable_elements": "不穩定選項",
     "p3d_open_vault_on_callback": "所有的門均已開啟",
-    "p3d_fill_deposit_boxes_on_callback": "儲蓄箱已填充"
+    "p3d_fill_deposit_boxes_on_callback": "儲蓄箱已填充",
+    "p3d_max_wall_thickness": "Max wall thickness",
+    "p3d_tank_medic_notice": "Medic dozers are targeted by this setting.",
+    "p3d_unaffected_tank_medic_notice": "Medic dozers are not targeted by this setting.",
+    "Warning: experimental feature, expect it to not behave as expected.": "警告：實驗性功能，除了它的行為不符合預期."
 }

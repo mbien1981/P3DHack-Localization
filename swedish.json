@@ -737,7 +737,6 @@
     "p3d_toggle_silent_aim": "Enable silent aim",
     "p3d_toggle_aim_through_shields": "Aim through shields",
     "p3d_toggle_aim_through_walls": "Aim through walls",
-    "p3d_experimental_setting_warning": "Warning: experimental feature, except it to not behave as intended.",
     "p3d_silent_aim_settings": "Silent aim settings",
     "p3d_aimbot_target_priority_menu_title": "Aimbot priority settings",
     "p3d_aimbot_target_priority_type": "Priorize target by:",
@@ -877,5 +876,9 @@
     "p3d_descend_helicopter": "Press %s to descend",
     "p3d_trigger_unstable_elements": "Unstable elements",
     "p3d_open_vault_on_callback": "Valvdörren öppnad",
-    "p3d_fill_deposit_boxes_on_callback": "Fyllda förvaringslådor"
+    "p3d_fill_deposit_boxes_on_callback": "Fyllda förvaringslådor",
+    "p3d_max_wall_thickness": "Max wall thickness",
+    "p3d_tank_medic_notice": "Medic dozers are targeted by this setting.",
+    "p3d_unaffected_tank_medic_notice": "Medic dozers are not targeted by this setting.",
+    "Warning: experimental feature, expect it to not behave as expected.": "Warning: experimental feature, except it to not behave as intended."
 }

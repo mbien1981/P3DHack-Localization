@@ -786,7 +786,6 @@
     "p3d_toggle_silent_aim": "Sessiz amacı etkinleştir",
     "p3d_toggle_aim_through_shields": "Kalkanlardan nişan al",
     "p3d_toggle_aim_through_walls": "Duvarlardan nişan al",
-    "p3d_experimental_setting_warning": "Uyarı: deneysel özellik, amaçlandığı gibi davranmaması dışında.",
     "p3d_silent_aim_settings": "Sessiz hedef ayarları",
     "p3d_aimbot_target_priority_menu_title": "Aımbot öncelik ayarları",
     "p3d_aimbot_target_priority_type": "Hedefe göre öncelik ver:",
@@ -941,5 +940,9 @@
     "p3d_descend_helicopter": "Aşağı inmek için %s tuşuna basın",
     "p3d_trigger_unstable_elements": "Kararsız elemanlar",
     "p3d_open_vault_on_callback": "Kasa kapısı açıldı",
-    "p3d_fill_deposit_boxes_on_callback": "Kasalar dolduruldu"
+    "p3d_fill_deposit_boxes_on_callback": "Kasalar dolduruldu",
+    "p3d_max_wall_thickness": "Max wall thickness",
+    "p3d_tank_medic_notice": "Medic dozers are targeted by this setting.",
+    "p3d_unaffected_tank_medic_notice": "Medic dozers are not targeted by this setting.",
+    "Warning: experimental feature, expect it to not behave as expected.": "Uyarı: deneysel özellik, amaçlandığı gibi davranmaması dışında."
 }

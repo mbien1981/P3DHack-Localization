@@ -789,7 +789,6 @@
     "p3d_toggle_silent_aim": "Включить Silent Aim",
     "p3d_toggle_aim_through_shields": "Aim через щиты",
     "p3d_toggle_aim_through_walls": "Aim через стены",
-    "p3d_experimental_setting_warning": "Предупреждение: экспериментальная функция, может вести себя не так, как задумано.",
     "p3d_silent_aim_settings": "Настройки Silent Aim",
     "p3d_aimbot_target_priority_menu_title": "Настройки приоритета Aimbot",
     "p3d_aimbot_target_priority_type": "Приоритетность цели:",
@@ -944,5 +943,9 @@
     "p3d_descend_helicopter": "Нажмите %s, чтобы спуститься",
     "p3d_trigger_unstable_elements": "Нестабильные элементы",
     "p3d_open_vault_on_callback": "Дверь хранилища открыта",
-    "p3d_fill_deposit_boxes_on_callback": "Все ячейки заполнены"
+    "p3d_fill_deposit_boxes_on_callback": "Все ячейки заполнены",
+    "p3d_max_wall_thickness": "Max wall thickness",
+    "p3d_tank_medic_notice": "Medic dozers are targeted by this setting.",
+    "p3d_unaffected_tank_medic_notice": "Medic dozers are not targeted by this setting.",
+    "Warning: experimental feature, expect it to not behave as expected.": "Предупреждение: экспериментальная функция, может вести себя не так, как задумано."
 }
