@@ -220,7 +220,7 @@
     "turret_enemy": "敵軍炮塔",
     "add_items_all_menu": "全部列表",
     "del_items_all_menu": "全部列表",
-    "del_items_menu": "戴爾庫存菜單",
+    "del_items_menu": "刪除指定任務道具",
     "right_engine_menu": "正確的引擎菜單",
     "right_engine": "在HUD上顯示正確的引擎",
     "spawn_right_engine": "刷出正確的引擎",
