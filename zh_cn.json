@@ -220,7 +220,7 @@
     "turret_enemy": "敌军炮塔",
     "add_items_all_menu": "全部列表",
     "del_items_all_menu": "全部列表",
-    "del_items_menu": "戴尔库存菜单",
+    "del_items_menu": "删除指定任务道具",
     "right_engine_menu": "正确的引擎菜单",
     "right_engine": "在HUD上显示正确的引擎",
     "spawn_right_engine": "刷出正确的引擎",
