@@ -946,8 +946,8 @@
     "p3d_open_vault_on_callback": "所有的门均已开启",
     "p3d_fill_deposit_boxes_on_callback": "储蓄箱已填充",
     "the_end_door": "打开办公室门",
-    "p3d_max_wall_thickness": "Max wall thickness",
-    "p3d_tank_medic_notice": "Medic dozers are targeted by this setting.",
-    "p3d_unaffected_tank_medic_notice": "Medic dozers are not targeted by this setting.",
+    "p3d_max_wall_thickness": "最大墙壁厚度",
+    "p3d_tank_medic_notice": "医疗熊是此设置的目标.",
+    "p3d_unaffected_tank_medic_notice": "此设置不针对医疗熊.",
     "Warning: experimental feature, expect it to not behave as expected.": "警告：实验性功能，除了它的行为不符合预期."
 }
