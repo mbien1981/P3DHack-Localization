@@ -220,7 +220,7 @@
     "turret_enemy": "敵軍炮塔",
     "add_items_all_menu": "全部列表",
     "del_items_all_menu": "全部列表",
-    "del_items_menu": "戴爾庫存菜單",
+    "del_items_menu": "刪除指定任務道具",
     "right_engine_menu": "正確的引擎菜單",
     "right_engine": "在HUD上顯示正確的引擎",
     "spawn_right_engine": "刷出正確的引擎",
@@ -944,8 +944,8 @@
     "p3d_trigger_unstable_elements": "不穩定選項",
     "p3d_open_vault_on_callback": "所有的門均已開啟",
     "p3d_fill_deposit_boxes_on_callback": "儲蓄箱已填充",
-    "p3d_max_wall_thickness": "Max wall thickness",
-    "p3d_tank_medic_notice": "Medic dozers are targeted by this setting.",
-    "p3d_unaffected_tank_medic_notice": "Medic dozers are not targeted by this setting.",
+    "p3d_max_wall_thickness": "最大墻壁厚度",
+    "p3d_tank_medic_notice": "醫療熊是此設置的目標.",
+    "p3d_unaffected_tank_medic_notice": "此設置不針對醫療熊.",
     "Warning: experimental feature, expect it to not behave as expected.": "警告：實驗性功能，除了它的行為不符合預期."
 }
