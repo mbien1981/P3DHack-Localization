@@ -949,5 +949,5 @@
     "p3d_max_wall_thickness": "Max wall thickness",
     "p3d_tank_medic_notice": "Medic dozers are targeted by this setting.",
     "p3d_unaffected_tank_medic_notice": "Medic dozers are not targeted by this setting.",
-    "Warning: experimental feature, expect it to not behave as expected.": "警告：实验性功能，除了它的行为不符合预期."
+    "p3d_experimental_setting_warning": "警告：实验性功能，除了它的行为不符合预期."
 }
