@@ -1,7 +1,6 @@
 {
 	"P3DHack_Config": "P3DHack Config",
-	"Player_Menu_Config_func": "F1",
-	"Weapon_Menu_Config_func": "F2",
+	"P3DHack_Config_new": "New P3DHack Config",
 	"Stealth_Menu_Config_func": "F3",
 	"InteractTimer_Menu_Config_func": "F7",
 	"Troll_Menu_Config_func": "F8",
