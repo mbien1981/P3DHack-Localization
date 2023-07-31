@@ -1,9 +1,6 @@
 {
     "str_on": "Etkin",
     "str_off": "Etkisiz",
-    "no_morale_cooldown": "Moral etkisiz hale getir",
-    "whisper_morale": "Sessiz oyunda Moral",
-    "bleedout_morale": "Kanamada Moral",
     "EquipmentSpooferStyleAndSkins": "Stil ve Skinler",
     "Equipment_column": "Neyi işletmek istiyorsun?",
     "ThemeMenu_title": "Tema Menüsü",
@@ -39,8 +36,6 @@
     "EquipmentSpoofer_desc": "Bu script sahip olmadın DLClerin Itemlerini kullandinda Cheater Tagi almani önlüyor Spoofun korudukları :Birinci ve Ikinci Silah,Yakın Sılah,El bombası,Konuşlandırılabilir(2 slot),Maske,Zırh,Zırh skini,Takım stili,Eldüvenler",
     "HideWeaponSkinsForOthers": "Silah skinlerini başkalarından sakla",
     "HideWeaponSkinsForOthers_desc": "Banlanamayan sahte skinin göster",
-    "P3DHack_Beta": "P3DHack Beta",
-    "P3DHack_Beta_desc": "Üstünde calıştımız Experimental Özelikler",
     "spoofs_desc": "Lootunu hep karışık bir Legendary skinle değiştiriyo",
     "look_while_interacting": "etkileşim sirasinda kafani cevir",
     "referral_program": "Öneri Programı",

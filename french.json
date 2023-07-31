@@ -1,9 +1,6 @@
 {
     "str_on": "Activé",
     "str_off": "Désactivé",
-    "no_morale_cooldown": "Désactiver le temp d'Inspiration",
-    "whisper_morale": "Inspirer sur la furtivité",
-    "bleedout_morale": "Inspirez vous sur bleedout",
     "EquipmentSpooferStyleAndSkins": "Style et Skins",
     "Equipment_column": "Qu'est-ce que tu veux falsifier ?",
     "ThemeMenu_title": "Menu des thémes",
@@ -39,8 +36,6 @@
     "EquipmentSpoofer_desc": "TCe script vous empêchera d'obtenir une étiquette de tricheur en tant que client pour l'utilisation d'armes ou d'autres équipements, pour lesquels vous ne possédez pas réellement le DLC. Ce script se moque des éléments suivants : Arme principale et secondaire, Arme de mêlée, Grenade, Déployable (2 emplacements), Masque, Armure, Skin d'armure, Style de combinaison, Gants.",
     "HideWeaponSkinsForOthers": "Cacher des peaux d'armes pour les autres",
     "HideWeaponSkinsForOthers_desc": "Version mise à jour de Unbannable Fake Skins",
-    "P3DHack_Beta": "P3DHack Beta",
-    "P3DHack_Beta_desc": "Fonctions expérimentales sur lesquelles nous travaillons actuellement",
     "spoofs_desc": "Le butin que vous recevez en multijoueur est toujours un skins légendaire aléatoire.",
     "look_while_interacting": "Faites pivoter votre tête lorsque vous interagissez",
     "referral_program": "Programme de référence",

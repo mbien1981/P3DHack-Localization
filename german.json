@@ -1,9 +1,6 @@
 {
     "str_on": "Aktiviert",
     "str_off": "Deaktiviert",
-    "no_morale_cooldown": "Anfeuern Cooldown deaktivieren",
-    "whisper_morale": "bei Stealth anfeuern",
-    "bleedout_morale": "beim ausbluten anfeuern",
     "EquipmentSpooferStyleAndSkins": "Stil und Skins",
     "Equipment_column": "Was möchtest du fälschen?",
     "ThemeMenu_title": "Design Menü",
@@ -39,8 +36,6 @@
     "EquipmentSpoofer_desc": "Dieses Skript verhindert, als Client einen Cheater-Tag für die Verwendung von Waffen oder anderen Ausrüstungsgegenständen zu erhalten, für die du den entsprechenden DLC eigentlich nicht besitzt. Dieses Skript täuscht folgendes vor: Primär- und Sekundärwaffe, Nahkampfwaffe, Granate, Einsetzbares (2 Slots), Maske, Rüstung, Rüstungsaussehen, Anzugstil, Handschuhe.",
     "HideWeaponSkinsForOthers": "Verstecke Waffenskins vor anderen",
     "HideWeaponSkinsForOthers_desc": "Aktualisierte Version von nicht bannbaren Fake Skins",
-    "P3DHack_Beta": "P3DHack Beta",
-    "P3DHack_Beta_desc": "Experimentelle Funktionen an denen wir aktuell arbeiten",
     "spoofs_desc": "Spooft dein Beutedrop im Multiplayer sodass dieser immer einen zufälligen legendären Skin sein wird",
     "look_while_interacting": "Drehe deinen Kopf während du interagierst",
     "referral_program": "Empfehlungsprogramm",
